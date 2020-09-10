@@ -1,3 +1,6 @@
-p{
-    color: rgb(9, 206, 9);
-}
+p {
+    color: rgb(14, 107, 37);
+    padding: 20px;
+    background-color: lightgreen;
+      border: 1px green;
+    }
